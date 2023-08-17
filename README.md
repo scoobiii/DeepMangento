@@ -38,7 +38,7 @@ Mas ERP é, cada vez mais, gerir, negócios dos outros. Integração e component
 
 O Mangento é feito em PHP e rodando a ferramenta tokei, olha só: são 2 MILHÕES de linhas de código PHP.
 
-**27:45 (Fabio Akita) **
+**27:45 (Fabio Akita)**
 
 Mais de 200 mil linhas de Javascript. O Magento sozinho, só no javascript, tem o dobro de linhas de código do que Ruby no
 Spree que, por sua vez, já era 34 vezes maior do que o ecommerce do livro que ensina Rails.
