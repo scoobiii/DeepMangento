@@ -112,24 +112,6 @@ No geral, gerenciar a autenticação e o acesso às contas de redes sociais por 
 </p>
 
 
-<h2>Comece</h2>
-
-<ul>
-<li><a href="https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/composer.html">Instalação rápida</a></li>
-<li><a href="https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/system-requirements.html">Requisitos do sistema</a></li>
-<li><a href="https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/prerequisites/overview.html">Pré-requisitos</a></li>
-<li><a href="https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/overview.html">Mais opções de instalação</a></li>
-</ul>
-
-<h2>Ajuda</h2>)
-    <a href="https://magento.com/products/magento-open-source"> <img alt="Plimm logo" height="50px" src="[ https://opensea.io/collection/plimm](https://i.seadn.io/gcs/files/5863484aae2bc9fa10e6dbbfdad1a51a.png?auto=format&dpr=1&w=1000)"/> </a>
-<a href="https://i.seadn.io/gcs/files/5863484aae2bc9fa10e6dbbfdad1a51a.png?auto=format&dpr=1&w=1000"><img src=" https://opensea.io/collection/plimm" plimm" /></a>
-
-
-
-
-
-
 <h1 align="center">Magento Open Source</h1>
 
 <p>Bem-vindo ao projeto Magento Open Source! O software do <a href="https://magento.com/products/magento-open-source">Magento Open Source</a> oferece capacidades básicas de comércio eletrônico para criar uma loja online única desde o início.</p>
